@@ -20,7 +20,7 @@ Hello! I'm a junior development who study programs.
 ## 🖋️Studying
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
 <br><br><br>
 
